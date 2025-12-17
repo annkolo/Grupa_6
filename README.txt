@@ -1,4 +1,9 @@
 Wskaźnik BMI (Body Mass Index) został opracowany w XIX wieku przez belgijskiego uczonego Adolphe'a Queteleta jako narzędzie statystyczne do analizy populacji. Współczesną popularność w medycynie zyskał w latach 70. XX wieku za sprawą badań Ancela Keysa, który zaproponował go jako prostą metodę szacowania ryzyka zdrowotnego związanego z masą ciała na poziomie populacyjnym.
+Zakresy wskaźnika BMI:
+- poniżej 18,5 -> niedowaga;
+- 18,5-24,9 -> waga prawidłowa;
+- 25,0-29,9 -> nadwaga;
+- powyżej 30 -> otyłość (stopnie: I-30-34,9; II-35-39,9; III-40+).
 Ryzyka chorobowe związane z nieprawidłowymi wartościami BMI
 
 1. Niedowaga (BMI < 18,5)
