@@ -1,0 +1,1 @@
+Wskaźnik BMI (Body Mass Index) został opracowany w XIX wieku przez belgijskiego uczonego Adolphe'a Queteleta jako narzędzie statystyczne do analizy populacji. Współczesną popularność w medycynie zyskał w latach 70. XX wieku za sprawą badań Ancela Keysa, który zaproponował go jako prostą metodę szacowania ryzyka zdrowotnego związanego z masą ciała na poziomie populacyjnym.
