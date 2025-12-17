@@ -3,3 +3,35 @@ Zakresy wskaźnika BMI:
 - 18,5-24,9 -> waga prawidłowa;
 - 25,0-29,9 -> nadwaga;
 - powyżej 30 -> otyłość (stopnie: I-30-34,9; II-35-39,9; III-40+).
+Ryzyka chorobowe związane z nieprawidłowymi wartościami BMI
+
+1. Niedowaga (BMI < 18,5)
+
+Możliwe zagrożenia zdrowotne:
+	•	osłabienie organizmu i odporności
+	•	niedobory witamin i minerałów
+	•	anemia
+	•	zaburzenia hormonalne
+	•	problemy z koncentracją i zmęczenie
+	•	zwiększone ryzyko osteoporozy
+
+2. Nadwaga (BMI 25,0 – 29,9)
+
+Możliwe zagrożenia zdrowotne:
+	•	zwiększone ryzyko chorób serca
+	•	podwyższone ciśnienie krwi
+	•	insulinooporność
+	•	problemy ze stawami
+	•	większe ryzyko rozwoju cukrzycy typu 2
+
+
+3. Otyłość (BMI ≥ 30)
+
+Możliwe zagrożenia zdrowotne:
+	•	cukrzyca typu 2
+	•	choroby układu sercowo-naczyniowego (zawał, udar)
+	•	miażdżyca
+	•	nadciśnienie tętnicze
+	•	choroby wątroby (stłuszczenie wątroby)
+	•	problemy z oddychaniem (bezdech senny)
+	•	zwiększone ryzyko niektórych nowotworów
