@@ -22,7 +22,7 @@ def add_bmi_category(df):
         elif bmi < 30:
             return "Nadwaga"
         else:
-            return "Oty³oœæ"
+            return "Otylosc"
  
     df["Kategoria"] = df["BMI"].apply(category)
     return df
@@ -33,9 +33,9 @@ def plot_bmi(df):
  
     plt.figure(figsize=(8, 5))
     sns.histplot(df["BMI"], bins=10, kde=True)
-    plt.title("Rozk³ad BMI")
+    plt.title("Rozklad BMI")
     plt.xlabel("BMI")
-    plt.ylabel("Liczba osób")
+    plt.ylabel("Liczba osob")
     plt.show()
  
  
@@ -44,7 +44,7 @@ def plot_categories(df):
     sns.countplot(x="Kategoria", data=df)
     plt.title("Kategorie BMI")
     plt.xlabel("Kategoria")
-    plt.ylabel("Liczba osób")
+    plt.ylabel("Liczba osob")
     plt.show()
  
  

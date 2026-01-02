@@ -7,7 +7,7 @@ print("Waga | Wzrost | BMI   | Stan")
 print("-" * 30)
 
 # Dla każdej linii w pliku...
-for linia in linie:
+for linia in linie[1:]:
     linia = linia.strip()  # Usuń spacje/enter
     if linia:  # Jeśli linia nie jest pusta
         # Podziel linię po przecinku
